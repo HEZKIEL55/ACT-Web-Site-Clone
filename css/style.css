@@ -57,7 +57,7 @@ li a{
     top:50%;
     transform:translateY(-50%);
     text-align:center;
-    color: #fff;
+    color: rgb(14, 13, 13);
 }
 .content h1{
     font-size: 40px;
@@ -109,7 +109,7 @@ button{
     margin-top:20px;
     margin-left:40px;
     line-height: 30px;
-    color:darkgray;
+    color:rgb(7, 7, 7);
 }
 .fcard{
     width: 400px;
